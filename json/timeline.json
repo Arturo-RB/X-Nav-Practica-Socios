@@ -1,0 +1,21 @@
+{
+	"Msgs":[
+		{"autor": "Bebé Dragon",
+		"avatar": "images/baby_dragon.jpeg",
+		"titulo": "Apoyo aéreo",
+		"contenido": "Los quemaré a todos desde arriba",
+		"fecha": "14/04/2016"},
+
+		{"autor": "Mago de hielo",
+		"avatar": "images/mago_hielo.jpg",
+		"titulo": "Cuenta conmigo",
+		"contenido": "Te protegeré desde atrás, congelando a los enemigos",
+		"fecha": "12/04/2016"},
+
+		{"autor": "Rey",
+		"avatar": "images/rey.png",
+		"titulo": "Preparados para luchar",
+		"contenido": "Dentro de poco será la gran batalla, ¿estas listo para luchar?",
+		"fecha": "10/04/2016"}		
+	]
+}

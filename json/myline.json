@@ -1,0 +1,22 @@
+{
+	"Msgs":[
+		{"autor": "Principe",
+		"avatar": "images/principe.jpg",
+		"titulo": "Cuidado",
+		"contenido": "intenta no quemarme con las bolas de fuego",
+		"fecha": "14/04/2016"},
+
+		{"autor": "Principe",
+		"avatar": "images/principe.jpg",
+		"titulo": "Perfecto",
+		"contenido": "Con tu ayuda me será mas fácil matar los enemigos",
+		"fecha": "12/04/2016"},
+
+		{"autor": "Principe",
+		"avatar": "images/principe.jpg",
+		"titulo": "Preparado!!",
+		"contenido": "Estoy ajustando la armadura, necesitaré ayuda",
+		"fecha": "10/04/2016"}		
+	]
+
+}

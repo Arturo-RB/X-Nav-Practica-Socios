@@ -1,0 +1,15 @@
+{
+	"Msgs":[
+		{"autor": "Montapuerco",
+		"avatar": "images/montapuerco.jpg",
+		"titulo": "Todo listo!",
+		"contenido": "Los machacaré con mi mazo",
+		"fecha": "18/04/2016"},
+
+		{"autor": "Mago",
+		"avatar": "images/mago.jpg",
+		"titulo": "Refuerzos",
+		"contenido": "Me uno a la batalla",
+		"fecha": "16/04/2016"}			
+	]
+}

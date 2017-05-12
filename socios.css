@@ -1,0 +1,16 @@
+body{
+    background-color: orange;
+}
+img {
+    width: 200px;
+    height: 150px;
+    background-color: green;
+    border:3px solid #542437;
+}
+
+.jumbotron {
+    color:   #0d92a5;
+    text-align: center;
+    background-image: url("images/socios.jpg");
+    background-size: 100% 250px;
+}
